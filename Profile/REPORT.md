@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-1&nbsp;/&nbsp;30&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-192&nbsp;/&nbsp;226&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-1&nbsp;/&nbsp;30&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-192&nbsp;/&nbsp;226&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-1&nbsp;/&nbsp;30&nbsp;/&nbsp;736-009933?style=flat-square"></a>
+<a href="https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-192&nbsp;/&nbsp;226&nbsp;/&nbsp;736-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,17 +15,17 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `1` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `0` | `33` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Types | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `23` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `0` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `0` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `0` | `13` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `30` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `33` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Types | `14` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `20` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `23` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `9` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `22` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `18` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `7` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `11` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `0` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `0` | `19` |
