@@ -3,13 +3,13 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code k
+  - Nonblocking I/O and blocking code: 🎓 known
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection k
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time) u
+  - Interactive applications (close to real-time): 🖐️ used
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
@@ -18,16 +18,16 @@
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json` u
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection u
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI u
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -40,7 +40,7 @@
   - Web Crypto API
   - File system API (sync and async)
   - Copy folder recursively
-  - Worker threads u
+  - Worker threads: 🖐️ used
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -52,7 +52,7 @@
   - Module `node:worker_threads`
   - Module `node:child_process`
   - MessageChannel, MessagePort
-  - BroadcastChannel k
+  - BroadcastChannel: 🎓 known
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`
   - Module `node:assert`
@@ -63,34 +63,34 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates u
+  - SSL certificates: 🖐️ used
   - Protocol agnostic approach
-  - Fetch API u
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S) u
-  - TCP/SSL u
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
   - UDP
-  - TLS u
-  - Websocket k
+  - TLS: 🖐️ used
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST u
+  - REST: 🖐️ used
   - RPC
-  - Routing u
+  - Routing: 🖐️ used
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection k
+  - SQL injection: 🎓 known
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging u
+  - Logging: 🖐️ used
   - Application configuring
   - Testing
   - CI/CD
@@ -99,7 +99,7 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console u
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error` u
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
   - `error.message`

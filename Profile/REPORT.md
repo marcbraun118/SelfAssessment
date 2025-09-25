@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-317&nbsp;/&nbsp;406&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-337&nbsp;/&nbsp;515&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-317&nbsp;/&nbsp;406&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-337&nbsp;/&nbsp;515&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-317&nbsp;/&nbsp;406&nbsp;/&nbsp;736-009933?style=flat-square"></a>
+<a href="https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-337&nbsp;/&nbsp;515&nbsp;/&nbsp;736-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -41,14 +41,14 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `3` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `0` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `0` | `6` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `0` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Network | `0` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `0` | `12` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `3` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `2` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `1` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `2` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network | `9` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `2` | `12` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data access | `0` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `0` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `1` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `25` |
@@ -254,29 +254,29 @@ Total: you have `17` of `75` skills, `58` to be upgraded, and `3` above needed
 | API and domain logic developer | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `13` above needed
 
 | Enterprise applications | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `15` above needed
 
 | Real-Time, gamedev, messaging | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `12` above needed
 
 | Web and Frontend | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `8` above needed
 
 | Fullstack development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `13` above needed
 
 | Platform/system development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `17` above needed
