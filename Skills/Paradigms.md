@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming u
+  - Imperative programming k
+  - Structured programming k
   - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Functional programming u
+  - Prototype-based programming k
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Asynchronous programming u
+  - Parallel programming k
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -22,29 +22,29 @@
   - Actor model
   - Lambda calculus
   - Black box
-  - Information hiding
-  - Aspect-oriented programming
+  - Information hiding u
+  - Aspect-oriented programming h
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method u
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
+  - Interface u
+  - Encapsulation u
+  - Hidden class k
   - Object form
-  - Instance
+  - Instance u
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,21 +58,21 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP) u
   - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Liskov substitution principle (LSP) k
+  - Interface segregation principle (ISP) u
+  - Dependency inversion principle (DIP) u
 - Patterns
   - Singleton
-  - Factory Method
+  - Factory Method u
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer k
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility
+  - Chain of Responsibility h
   - Command
   - Iterator
   - State
@@ -88,4 +88,4 @@
   - Visitor
   - Reactor
   - Active object
-  - Delegation
+  - Delegation u
