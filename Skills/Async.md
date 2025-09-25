@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,33 +13,33 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Race conditions: 🖐️ used
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Actor Model: 👂 heard
+  - Thread: 🎓 known
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 👂 heard
+  - Thenable: 🎓 known
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event: 🎓 known
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Stream: 🖐️ used
+  - Chain of responsibility: 👂 heard
+  - Middleware: 🖐️ used
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -48,7 +48,7 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
+  - Observable/Observer: 🎓 known
   - Readable
   - Writable
   - Transform
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 🖐️ used
   - `setImmediate`
   - `nextTick`
   - AbortController
@@ -71,9 +71,9 @@
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
-  - JSON streaming serialization
+  - JSON streaming serialization: 🖐️ used
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
