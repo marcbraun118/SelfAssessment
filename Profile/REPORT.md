@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-192&nbsp;/&nbsp;226&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-290&nbsp;/&nbsp;340&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-192&nbsp;/&nbsp;226&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-290&nbsp;/&nbsp;340&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-192&nbsp;/&nbsp;226&nbsp;/&nbsp;736-009933?style=flat-square"></a>
+<a href="https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-290&nbsp;/&nbsp;340&nbsp;/&nbsp;736-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,12 +27,12 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `7` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `11` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `0` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `0` | `19` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `51` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `8` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `8` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `4` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `0` | `18` |
@@ -67,13 +67,51 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| Destructuring | 👂 heard | ⟶  | 🖐️ used |
+| Iterators | 🤷 unknown | ⟶  | 👂 heard |
+| Async iterator | 🤷 unknown | ⟶  | 👂 heard |
+| `global` | 👂 heard | ⟶  | 🎓 known |
+| Ternary operator | 🎓 known | ⟶  | 🖐️ used |
+| Strict mode | 👂 heard | ⟶  | 🖐️ used |
+| `super` | 🎓 known | ⟶  | 🖐️ used |
+| `Object.assign` | 👂 heard | ⟶  | 🎓 known |
+| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
+| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `0` of `72` skills, `72` to be upgraded, and `0` above needed
+Total: you have `61` of `72` skills, `11` to be upgraded, and `20` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| `Symbol` | 🎓 known | ⟶  | 🖐️ used |
+| `Infinity` | 👂 heard | ⟶  | 🖐️ used |
+| Destructuring | 👂 heard | ⟶  | 🖐️ used |
+| Generators | 👂 heard | ⟶  | 🖐️ used |
+| Iterators | 🤷 unknown | ⟶  | 🖐️ used |
+| Async generator | 👂 heard | ⟶  | 🖐️ used |
+| Async iterator | 🤷 unknown | ⟶  | 🖐️ used |
+| Chaining | 🎓 known | ⟶  | 🖐️ used |
+| IIFE | 🎓 known | ⟶  | 🖐️ used |
+| Async IIFE | 🎓 known | ⟶  | 🖐️ used |
+| `global` | 👂 heard | ⟶  | 🖐️ used |
+| `globalThis` | 👂 heard | ⟶  | 🖐️ used |
+| Ternary operator | 🎓 known | ⟶  | 🖐️ used |
+| `yield` | 👂 heard | ⟶  | 🖐️ used |
+| Strict mode | 👂 heard | ⟶  | 🖐️ used |
+| `super` | 🎓 known | ⟶  | 🖐️ used |
+| Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
+| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
+| Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
+| Computed properties | 🤷 unknown | ⟶  | 🎓 known |
+| `Object.assign` | 👂 heard | ⟶  | 🎓 known |
+| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
+| `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
+| `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
+| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
+| V8 | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `0` of `98` skills, `98` to be upgraded, and `0` above needed
+Total: you have `71` of `98` skills, `27` to be upgraded, and `17` above needed
 
 ## [Async](/Skills/Async.md)
 
