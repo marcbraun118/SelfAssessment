@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
+  - Data types u
+  - Performance tuning u
+  - Migrations u
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery u
   - Database scalability
-  - Relational databases
+  - Relational databases u
   - Key-value store
   - Tuple store
   - Graph databases
@@ -15,56 +15,56 @@
   - Column databases
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases
+  - In-memory databases u
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram k
   - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
+  - Indexing u
+  - Primary keys u
+  - Foreign keys u
   - Transactions
-  - Views
+  - Views u
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions u
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
+  - `LIMIT` u
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `ORDER BY` u
+  - `GROUP BY` u
+  - `HAVING` u
+  - `EXISTS` u
+  - `JOIN` u
+  - `INNER JOIN` u
+  - `LEFT JOIN` u
+  - `RIGHT JOIN` u
+  - `UNION` u
+  - `DISTINCT` k
+  - `WHERE` u
+  - `LIKE` u
+  - `IN` u
+  - `BETWEEN` u
+  - `CREATE TABLE` u
+  - `ALTER TABLE` u
+  - `DROP TABLE` u
+  - `PRIMARY KEY` u
+  - `FOREIGN KEY` u
   - `CHECK`
   - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
+  - `INDEX` u
+  - `UNIQUE` u
   - `GRANT`
   - `REVOKE`
   - `DENY`
@@ -72,9 +72,9 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL u
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server u
   - Redis
   - Rabbit
   - MongoDB
@@ -86,9 +86,9 @@
   - Firebase
 - Data engineering
   - Data warehousing
-  - Business intelligence
+  - Business intelligence u
   - Big data
-  - Data analysis
+  - Data analysis u
   - AI tools
   - Cloud databases
   - Data Visualization
