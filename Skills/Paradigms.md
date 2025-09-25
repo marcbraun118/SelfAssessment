@@ -1,18 +1,18 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming u
-  - Imperative programming k
-  - Structured programming k
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
   - Non-structured programming
-  - Functional programming u
-  - Prototype-based programming k
-  - Object-oriented programming u
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming u
-  - Parallel programming k
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🎓 known
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -22,29 +22,29 @@
   - Actor model
   - Lambda calculus
   - Black box
-  - Information hiding u
-  - Aspect-oriented programming h
+  - Information hiding: 🖐️ used
+  - Aspect-oriented programming: 👂 heard
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method u
-  - Getters, Setters u
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance u
-  - Parent class u
-  - Polymorphism u
-  - Abstract class u
-  - Interface u
-  - Encapsulation u
-  - Hidden class k
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🎓 known
   - Object form
-  - Instance u
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,21 +58,21 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) u
+  - Single-responsibility principle (SRP): 🖐️ used
   - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP) k
-  - Interface segregation principle (ISP) u
-  - Dependency inversion principle (DIP) u
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
   - Singleton
-  - Factory Method u
+  - Factory Method: 🖐️ used
   - Abstract Factory
   - Adapter
-  - Observer k
+  - Observer: 🎓 known
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility h
+  - Chain of Responsibility: 👂 heard
   - Command
   - Iterator
   - State
@@ -88,4 +88,4 @@
   - Visitor
   - Reactor
   - Active object
-  - Delegation u
+  - Delegation: 🖐️ used
