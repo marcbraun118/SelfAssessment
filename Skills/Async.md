@@ -6,7 +6,7 @@
   - Non-blocking
   - Async I/O
   - Thread pool
-  - Pattern Reactor 
+  - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
