@@ -1,9 +1,9 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns u
   - Inversion of Control
-  - Dependency Injection
+  - Dependency Injection u
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
@@ -15,7 +15,7 @@
   - Directories
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming
+  - Contract programming k
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
@@ -25,19 +25,19 @@
   - Cyclomatic complexity
   - Reliability
   - Quality
-  - Availability
+  - Availability k
   - Flexibility
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD) k
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
+  - Separation of concerns (SoC) u
+  - Metaprogramming h
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) u
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -48,19 +48,19 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram h
   - IDEF1X
   - UML
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - Load balancing k
+  - Gateways u
+  - On-premises u
+  - IaaS k
+  - PaaS k
+  - SaaS u
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -75,7 +75,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds u
   - BPMN
   - Low-code
   - No-code
@@ -85,20 +85,20 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs u
+  - Enterprise strategy u
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices k
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence
-  - OLAP
+  - Business Intelligence u
+  - OLAP u
   - OLTP
   - Conways Law
   - Quality assurance
