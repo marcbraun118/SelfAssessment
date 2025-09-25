@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop u
-  - `try..catch` u
-  - Non-blocking u
-  - Async I/O u
-  - Thread pool k
-  - Pattern Reactor 
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
+  - Thread pool: 🎓 known
+  - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions u
-  - Dead locks k
-  - Live locks k
-  - Concurrent programming k
-  - Parallel programming k
-  - Actor Model h
-  - Thread k
-  - Process h
+  - Race conditions: 🖐️ used
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Actor Model: 👂 heard
+  - Thread: 🎓 known
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks u
-  - Callback-last-error-first h
-  - Thenable k
-  - Promise u
-  - Async/await u
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 👂 heard
+  - Thenable: 🎓 known
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event k
+  - Event: 🎓 known
   - Coroutine
   - Goroutine
   - Signal
-  - Stream u
-  - Chain of responsibility h
-  - Middleware u
-  - Locks u
+  - Stream: 🖐️ used
+  - Chain of responsibility: 👂 heard
+  - Middleware: 🖐️ used
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -48,7 +48,7 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer k
+  - Observable/Observer: 🎓 known
   - Readable
   - Writable
   - Transform
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers u
+  - Timers: 🖐️ used
   - `setImmediate`
   - `nextTick`
   - AbortController
@@ -71,9 +71,9 @@
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code u
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
-  - JSON streaming serialization u
+  - JSON streaming serialization: 🖐️ used
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
