@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-372&nbsp;/&nbsp;591&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-393&nbsp;/&nbsp;690&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-372&nbsp;/&nbsp;591&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-393&nbsp;/&nbsp;690&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-372&nbsp;/&nbsp;591&nbsp;/&nbsp;736-009933?style=flat-square"></a>
+<a href="https://github.com/marcbraun118/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-393&nbsp;/&nbsp;690&nbsp;/&nbsp;736-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -57,10 +57,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `4` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `4` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `0` | `27` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `0` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `0` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `0` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `5` | `27` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `10` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `1` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `5` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 

@@ -1,9 +1,9 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns: 🖐️ used
   - Inversion of Control
-  - Dependency Injection
+  - Dependency Injection: 🖐️ used
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
@@ -15,7 +15,7 @@
   - Directories
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming
+  - Contract programming: 🎓 known
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
@@ -25,19 +25,19 @@
   - Cyclomatic complexity
   - Reliability
   - Quality
-  - Availability
+  - Availability: 🎓 known
   - Flexibility
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD): 🎓 known
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
+  - Separation of concerns (SoC): 🖐️ used
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI): 🖐️ used
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -48,19 +48,19 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram: 👂 heard
   - IDEF1X
   - UML
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - Load balancing: 🎓 known
+  - Gateways: 🖐️ used
+  - On-premises: 🖐️ used
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🖐️ used
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -75,7 +75,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: 🖐️ used
   - BPMN
   - Low-code
   - No-code
@@ -85,20 +85,20 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs: 🖐️ used
+  - Enterprise strategy: 🖐️ used
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence
-  - OLAP
+  - Business Intelligence: 🖐️ used
+  - OLAP: 🖐️ used
   - OLTP
   - Conways Law
   - Quality assurance
