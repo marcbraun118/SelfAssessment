@@ -1,31 +1,31 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET u
-  - Stateful and stateless services u
-  - Asynchronous and synchronous programming u
-  - Task-based asynchronous pattern u
-  - Garbage collection in .NET k
-  - .NET runtime versions and support u
+  - Strengths and weaknesses of .NET: 🖐️ used
+  - Stateful and stateless services: 🖐️ used
+  - Asynchronous and synchronous programming: 🖐️ used
+  - Task-based asynchronous pattern: 🖐️ used
+  - Garbage collection in .NET: 🎓 known
+  - .NET runtime versions and support: 🖐️ used
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
-  - NuGet package management u
+  - NuGet package management: 🖐️ used
   - Dependency management in .NET
-  - Dependency Injection in .NET u
+  - Dependency Injection in .NET: 🖐️ used
   - Inversion of Control (IoC)
   - IoC containers in .NET
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
   - Command line interface (CLI) tools
-  - .NET CLI u
+  - .NET CLI: 🖐️ used
   - Windows Services and Linux Daemons
-  - Hosting and Deployment models u
-  - IIS and Kestrel web server u
+  - Hosting and Deployment models: 🖐️ used
+  - IIS and Kestrel web server: 🖐️ used
   - Environment variables and configuration
-  - File system I/O operations u
+  - File system I/O operations: 🖐️ used
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
@@ -35,22 +35,22 @@
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
   - Memory and resource management
-  - Globalization and localization u
+  - Globalization and localization: 🖐️ used
 - Network and Protocols
-  - HTTP/HTTPS support u
+  - HTTP/HTTPS support: 🖐️ used
   - WebSockets for real-time communication
   - TCP/UDP networking
-  - SSL/TLS for secure connections u
+  - SSL/TLS for secure connections: 🖐️ used
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML) u
+  - Serialization and deserialization (JSON, XML): 🖐️ used
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
-  - Integration testing u
-  - Logging and tracing u
+  - Integration testing: 🖐️ used
+  - Logging and tracing: 🖐️ used
   - Application monitoring and telemetry
-  - Debugging tools and strategies u
+  - Debugging tools and strategies: 🖐️ used
   - Performance profiling and analysis
 - Data Access and ORM
   - Entity Framework Core
@@ -60,7 +60,7 @@
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
-  - Exception handling in .NET u
+  - Exception handling in .NET: 🖐️ used
   - Custom error classes
   - Debugging and diagnostic tools
   - Profiling and performance analysis
@@ -78,10 +78,10 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals u
-  - Advanced C# features (LINQ, async/await, delegates, events) u
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
   - Reflection and dynamic programming
-  - Data types and collections u
+  - Data types and collections: 🖐️ used
   - Generics and extension methods
   - Attributes and annotations
   - Interoperability with other .NET languages
@@ -96,7 +96,7 @@
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
 - VB.NET Development
-  - VB.NET syntax and language fundamentals u
+  - VB.NET syntax and language fundamentals: 🖐️ used
   - Event-driven programming
   - COM interop and P/Invoke
   - XML and file handling
@@ -122,7 +122,7 @@
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core u
+  - ASP.NET Core: 🖐️ used
   - Blazor
   - Razor Syntax
-  - RESTful API development u
+  - RESTful API development: 🖐️ used
