@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
+  - Data types: 🖐️ used
+  - Performance tuning: 🖐️ used
+  - Migrations: 🖐️ used
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery: 🖐️ used
   - Database scalability
-  - Relational databases
+  - Relational databases: 🖐️ used
   - Key-value store
   - Tuple store
   - Graph databases
@@ -15,56 +15,56 @@
   - Column databases
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases
+  - In-memory databases: 🖐️ used
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram: 🎓 known
   - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
+  - Indexing: 🖐️ used
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
   - Transactions
-  - Views
+  - Views: 🖐️ used
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions: 🖐️ used
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🎓 known
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
   - `CHECK`
   - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
+  - `INDEX`: 🖐️ used
+  - `UNIQUE`: 🖐️ used
   - `GRANT`
   - `REVOKE`
   - `DENY`
@@ -72,9 +72,9 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL: 🖐️ used
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server: 🖐️ used
   - Redis
   - Rabbit
   - MongoDB
@@ -86,9 +86,9 @@
   - Firebase
 - Data engineering
   - Data warehousing
-  - Business intelligence
+  - Business intelligence: 🖐️ used
   - Big data
-  - Data analysis
+  - Data analysis: 🖐️ used
   - AI tools
   - Cloud databases
   - Data Visualization
