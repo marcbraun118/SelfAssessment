@@ -3,13 +3,13 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
+  - Nonblocking I/O and blocking code k
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection k
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time) u
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
@@ -18,16 +18,16 @@
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection u
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI u
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -40,7 +40,7 @@
   - Web Crypto API
   - File system API (sync and async)
   - Copy folder recursively
-  - Worker threads
+  - Worker threads u
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -52,7 +52,7 @@
   - Module `node:worker_threads`
   - Module `node:child_process`
   - MessageChannel, MessagePort
-  - BroadcastChannel
+  - BroadcastChannel k
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`
   - Module `node:assert`
@@ -63,34 +63,34 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates u
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) u
+  - TCP/SSL u
   - UDP
-  - TLS
-  - Websocket
+  - TLS u
+  - Websocket k
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST u
   - RPC
-  - Routing
+  - Routing u
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection k
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging u
   - Application configuring
   - Testing
   - CI/CD
@@ -99,7 +99,7 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console u
   - Inspector
 - Data access
   - Data access layer
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` u
   - `error.cause`
   - `error.code`
   - `error.message`
